@@ -1,0 +1,45 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Cachet-Bold
+FamilyName:Cachet Bold
+StyleName:Regular
+FullName:Cachet Bold
+MenuName:Cachet Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\davet\OneDrive\YMCA-FILES\MARKETING\Events\Black Achievers Raffle\BARaffle Flyer\Document fonts\Cachet-Bold.ttf
+DataFormat:sfntData
+FileLength:49912
+FileModTime:1452462567
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Cachet Bold
+NameArray:0,Win,1,Cachet Bold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Cachet-Book
+FamilyName:Cachet Book
+StyleName:Regular
+FullName:Cachet Book
+MenuName:Cachet Book
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\davet\OneDrive\YMCA-FILES\MARKETING\Events\Black Achievers Raffle\BARaffle Flyer\Document fonts\Cachet-Book.ttf
+DataFormat:sfntData
+FileLength:51076
+FileModTime:1452462567
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Cachet Book
+NameArray:0,Win,1,Cachet Book
+%EndFont
+
