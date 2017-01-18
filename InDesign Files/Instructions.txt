@@ -2,9 +2,9 @@ ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
 
 PUBLICATION NAME: BARaffle.indd
 
-PACKAGE DATE: 1/13/16 11:36 AM
-Creation Date: 1/13/16
-Modification Date: 1/13/16
+PACKAGE DATE: 12/21/16 11:38 AM
+Creation Date: 12/21/16
+Modification Date: 12/21/16
 
 CONTACT INFORMATION
 
@@ -50,7 +50,7 @@ COLORS AND INKS
 LINKS AND IMAGES
 (Missing & Embedded Links Only)
 Links and Images: 3 Links Found; 0 Modified, 0 Missing 0 Inaccessible
-Images: 0 Embedded, 2 use RGB color space
+Images: 0 Embedded, 3 use RGB color space
 
 
 PRINT SETTINGS
@@ -80,8 +80,8 @@ Flip Mode: Off
 
 FILE PACKAGE LIST
 
-1. BARaffle.indd; type: Adobe InDesign publication; size: 2004K
-2. BARaffle.idml; type: InDesign Markup Document; size: 52K
-3. BARaffle.pdf; type: Adobe Acrobat Document; size: 233K
+1. BARaffle.indd; type: Adobe InDesign publication; size: 1532K
+2. BARaffle.idml; type: InDesign Markup Document; size: 53K
+3. BARaffle.pdf; type: Adobe Acrobat Document; size: 304K
 4. Cachet-Bold.ttf; type: Font file; size: 48K
 5. Cachet-Book.ttf; type: Font file; size: 49K
